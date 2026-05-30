@@ -56,5 +56,5 @@
 
 ## 📫 Contact me
 
-- Discord: [`narekkkkk`](https://discord.com/users/820291175150780446)
+- Discord: [`@narekkkkk`](https://discord.com/users/820291175150780446)
 - GitHub: [@narekkkkk07](https://github.com/narekkkkk07)
